@@ -1,2 +1,2 @@
 # Chess-Game
-This is a chess game written in Java.
+This is a simpler version of chess game written in Java which does not include en passant, pawn promotion, castling, check detection, draw detection and time control. This game is supposed to be played by two players in the same terminal in the same computer. You're supposed to enter "./run.sh" on your terminal to start this game, I hope you will have a great time playing it! If you like this project, please follow me on GitHub, thanks so much!
